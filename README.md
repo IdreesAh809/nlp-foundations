@@ -1,6 +1,14 @@
 # NLP Foundations Repository
 
-This repository contains Jupyter notebooks and datasets for learning NLP from scratch. It covers text preprocessing, rule-based NLP, classical ML approaches, and word embeddings.
+This repository contains Jupyter notebooks and datasets for learning NLP from scratch. It covers:
+
+- **Text Preprocessing:** Cleaning, tokenization, stemming, lemmatization (small examples included).  
+- **Rule-Based NLP:** POS tagging, parsing, and basic rule-based methods (with simple text examples).  
+- **Classical Machine Learning:** Naive Bayes, Logistic Regression, SVM for text classification (example dataset [`spam.csv`](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)).  
+- **Word Embeddings:** Word2Vec, GloVe, FastText (illustrated with small example sentences).  
+
+Each notebook provides **hands-on examples on small texts** to help understand the concepts step by step.
+
 
 ## Folder Structure
 ```
