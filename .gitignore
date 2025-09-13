@@ -1,23 +1,23 @@
-# Python
+# Python cache and environment
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.pkl
-*.h5
+env/
+venv/
+*.env
 
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# Data files
-datasets/
+# Data
 *.csv
-*.tsv
 *.xlsx
+*.json
 
-# Virtual environment
-venv/
-.env/
+# VS Code
+.vscode/
 
-# MacOS
+# OS files
 .DS_Store
+Thumbs.db
