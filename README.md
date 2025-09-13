@@ -1,6 +1,6 @@
 # NLP Foundations Repository
 
-This repository contains Jupyter notebooks and datasets for learning NLP from scratch. It covers:
+This repository contains Jupyter notebooks and datasets for learning NLP from scratch. It covers  :
 
 - **Text Preprocessing:** Cleaning, tokenization, stemming, lemmatization (small examples included).  
 - **Rule-Based NLP:** POS tagging, parsing, and basic rule-based methods (with simple text examples).  
