@@ -19,16 +19,13 @@ This repository contains Jupyter notebooks and datasets for learning NLP from sc
 ## Installation
 
 1.  **Clone the repository**:
-    ```bash
-    git clone [https://github.com/IdreesAh809/nlp-foundations-to-llms.git](https://github.com/IdreesAh809/nlp-foundations-to-llms.git)
-    cd nlp-foundations-to-llms
-    ```
+```
+git clone https://github.com/IdreesAh809/nlp-foundations-to-llms.git
+```
 2.  **Install dependencies**:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
-
----
 
 ## Usage
 
