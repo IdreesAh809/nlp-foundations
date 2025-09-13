@@ -1,10 +1,9 @@
+nltk
+spacy
+scikit-learn
 pandas
 numpy
-nltk
 gensim
-scikit-learn
-spacy
 matplotlib
 seaborn
-tensorflow
-torch
+tqdm
